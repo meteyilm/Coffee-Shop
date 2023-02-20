@@ -1,5 +1,5 @@
 package com.charlene.coffee.enums;
 
-public enum ProductSize {
+public enum ProductSizeEnum {
 	SMALL, MEDIUM, BIG;
 }
