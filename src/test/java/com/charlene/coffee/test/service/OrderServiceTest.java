@@ -57,4 +57,18 @@ class OrderServiceTest {
 		// Assertions.fail("Not yet implemented");
 	}
 
+	@Test
+	void testSimpleBeverage() {
+		// Assertions.fail("Not yet implemented");
+	}
+
+	@Test
+	void testSimpleBeverageWithSnack() {
+		// Assertions.fail("Not yet implemented");
+	}
+	@Test
+	void testComplexBeverages() {
+		// Assertions.fail("Not yet implemented");
+	}
+
 }

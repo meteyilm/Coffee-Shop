@@ -60,7 +60,7 @@ public class OrderServiceImpl implements OrderService {
 				}
 				if (currentProduct.getProductType() == ProductTypeEnum.BEVERAGE) {
 					beverageCount += orderItem.quantity();
-					builder.append();
+					builder.append("");
 				} else if (currentProduct.getProductType() == ProductTypeEnum.SNACK) {
 					snackCount += orderItem.quantity();
 				}

@@ -1,0 +1,11 @@
+SNACKS (DO NOT TOUCH THIS LINE)
+4.50-/-bR-/-Bacon Roll-/-
+EXTRAS (DO NOT TOUCH THIS LINE)
+0.3-/-em-/-Extra milk-/-
+0.5-/-fm-/-Foamed milk-/-
+0.9-/-src-/-Special roast coffee-/-
+BEVERAGES (DO NOT TOUCH THIS LINE)
+2.50-/-cs-/-Coffee-/-SMALL
+3.00-/-cm-/-Coffee-/-MEDIUM
+3.50-/-cl-/-Coffee-/-LARGE
+3.95-/-oj-/-Orange Juice-/-MEDIUM
